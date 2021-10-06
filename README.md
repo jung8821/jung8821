@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jung8821
-- 👀 I’m interested in ...
+- 👀 I’m interested in software development!
 
 
 <!---
