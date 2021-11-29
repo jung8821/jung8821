@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @jung8821
+- 👋 Hi, I’m Tae
 - 👀 I’m interested in software development!
+- Visit www.taekjung.com
 
 
 <!---
