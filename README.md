@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tae
-- 👀 I’m interested in software development!
-- Visit www.taekjung.com
+- 👀 I’m interested in software, web, and mobile app development!
+- My Portfolio: www.taekjung.com
 
 
 <!---
