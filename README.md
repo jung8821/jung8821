@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Tae
+- I am a Software Engineer working as a Front End Developer.
 - 👀 I’m interested in software, web, and mobile app development!
 - My Portfolio: www.taekjung.com
 
