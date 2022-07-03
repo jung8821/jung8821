@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tae
-- I am a Software Engineer working as a Front End Developer.
-- 👀 I’m interested in software, web, and mobile app development!
+- I am a Software Engineer specialized in Front end web developement.
+- 👀 I’m also interested in software, web apps, mobile apps, and indie game development!
 - My Portfolio: www.taekjung.com
 
 
