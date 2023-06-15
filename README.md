@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tae
-- I am a Software Engineer specialized in Front end web developement.
-- 👀 I’m also interested in software, web apps, mobile apps, and indie game development!
+- I am a Full-Stack Web Developer not afraid to learn new things.
+- 3 Things I like: Games, Technology, and Development!
 
 
 <!---
